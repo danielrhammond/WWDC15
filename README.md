@@ -12,3 +12,7 @@ Talks I missed or got incomplete notes and need to watch/rewatch:
 4. 506 Editing Movies in AV Foundation
 5. 209 Creating Complications with ClockKit
 6. 102 Platforms State of the Union
+
+# Must Watch
+
+411 (especially the second half)
