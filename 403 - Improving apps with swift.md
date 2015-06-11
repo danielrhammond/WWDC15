@@ -7,5 +7,3 @@ Encapsulate global utility function and turn them into struct methods
 
 # Availability
 Gives compile time feedback on mismatch between deployment targets and APIs being used
-
-# 

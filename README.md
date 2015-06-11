@@ -15,4 +15,6 @@ Talks I missed or got incomplete notes and need to watch/rewatch:
 
 # Must Watch
 
+412
 411 (especially the second half)
+218
