@@ -18,3 +18,8 @@ Talks I missed or got incomplete notes and need to watch/rewatch:
 412
 411 (especially the second half)
 218
+
+# Skip
+
+409 - Pretty surface level tl;dr is just turn on whole module optimization and use final/private where appropriate
+230 - Super high level not much good info
